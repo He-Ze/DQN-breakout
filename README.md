@@ -1,10 +1,5 @@
-<h1 align=center>Advanced Algorithm Mid-term Assignments</h1>
+<h1 align=center>DQN-Breakout with pytorch</h1>
 
-<h1 align=center>18340052-何泽  &  18340032-邓俊锋  </h1>
-
-<h2 align=center>Catalogue </h2>
-
-[TOC]
 
 ## Ⅰ  Description of the Breakout Game
 
